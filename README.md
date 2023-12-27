@@ -42,7 +42,7 @@ npm run build
 **frontend:**
 * [ReactJS](https://react.dev/)
 * [Vite](https://vitejs.dev/)
-* [BootStrap](https://getbootstrap.com/)
+* [Styled-Components](https://styled-components.com/)
 
 **Database:**
 * [FireBase](https://firebase.google.com/)
