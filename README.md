@@ -3,6 +3,8 @@
 # Matheus Ariza Portfolio
 Personal portfolio for showcasing my work as a fullstack developer.
 
+[Visit the Website](https://matheusariza.com)
+
 ## 🔥Introduction
 This project was developed to share landing pages, APIs, and e-commerce projects created by me, utilizing various technologies within my scope of knowledge. This portfolio is built using React (Vite) and JavaScript as the main technologies, also incorporating Firebase for form submissions.
 
