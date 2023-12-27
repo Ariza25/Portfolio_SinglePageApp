@@ -58,7 +58,7 @@ npm run build
 
 ### 📄License
 
-This project is under the (license name) license - check details [LICENSE](https://github.com/Ariza25/Portfolio_SinglePageApp/blob/main/LICENSE)
+This project is under the MIT license - check details [LICENSE](https://github.com/Ariza25/Portfolio_SinglePageApp/blob/main/LICENSE)
 
 ### 💡Acknowledgments
 
